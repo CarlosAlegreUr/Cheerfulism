@@ -1,5 +1,5 @@
-# Cheerfulism (v.0.0.1) 😄 
-
+# Cheerfulism (v.0.0.1) 😄
+---
 ## Initial Release: _How to get to an "Utopian" Society_
 
 Your insights and contributions are invaluable to this evolving narrative.
@@ -8,6 +8,8 @@ I invite you to share your thoughts, propose enhancements, or initiate discussio
 
 I encourage suggestions that refine both the substance and the presentation of the concepts within.
 
+---
+### [Click to read as pdf](https://github.com/CarlosAlegreUr/Cheerfulism/blob/main/Cheefulism-v0_0_1.pdf) 📖
 ---
 
 ## ChatGPT's summary 🗞️
