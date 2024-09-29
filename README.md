@@ -11,3 +11,6 @@ But *Cheerfulism* doesn’t stop at individual fulfillment. It offers a bold soc
 If you’re ready to create a life where happiness isn’t just a fleeting moment, but a lasting state of being, and if you want to understand how society could evolve toward its most prosperous and harmonious version, *Cheerfulism* offers the guidance and inspiration you need.
 
 ---
+
+# Read it [here](https://drive.google.com/file/d/1-DL87E-jkQpTrVJckMkYP6hTdVmfJKt8/view?usp=sharing). 👀
+# Or [here](./Cheefulism-v0_0_2.pdf). 👀
