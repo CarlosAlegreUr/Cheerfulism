@@ -2,6 +2,11 @@
 
 ---
 
+# Read it [here](https://drive.google.com/file/d/1-DL87E-jkQpTrVJckMkYP6hTdVmfJKt8/view?usp=sharing). 👀
+# Or [here](./Cheefulism-v0_0_2.pdf). 👀
+
+---
+
 ## ChatGPT's Book Blurb 📚✨
 
 **Cheerfulism v.0.0.2** is your invitation to a lifetime of happiness—crafted not by chance, but by intention. This unique philosophy empowers you to understand what truly brings joy, fulfillment, and meaning, and shows how to nurture it across every chapter of your life. It’s not about rejecting beliefs or following rigid systems—it’s about discovering your personal path to enduring happiness, one that evolves with you.
@@ -11,6 +16,3 @@ But *Cheerfulism* doesn’t stop at individual fulfillment. It offers a bold soc
 If you’re ready to create a life where happiness isn’t just a fleeting moment, but a lasting state of being, and if you want to understand how society could evolve toward its most prosperous and harmonious version, *Cheerfulism* offers the guidance and inspiration you need.
 
 ---
-
-# Read it [here](https://drive.google.com/file/d/1-DL87E-jkQpTrVJckMkYP6hTdVmfJKt8/view?usp=sharing). 👀
-# Or [here](./Cheefulism-v0_0_2.pdf). 👀
