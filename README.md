@@ -3,7 +3,6 @@
 ---
 
 # Read it [here](https://drive.google.com/file/d/1mTpTfPSEoSZnPcexqZyE0PLE--eU4l0q/view?usp=sharing). 👀
-# Or [here](./Cheefulism-v0_0_2_1.pdf). 👀
 
 ---
 
