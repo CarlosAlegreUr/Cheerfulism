@@ -2,8 +2,8 @@
 
 ---
 
-# Read it [here](https://drive.google.com/file/d/1-DL87E-jkQpTrVJckMkYP6hTdVmfJKt8/view?usp=sharing). 👀
-# Or [here](./Cheefulism-v0_0_2.pdf). 👀
+# Read it [here](https://drive.google.com/file/d/1mTpTfPSEoSZnPcexqZyE0PLE--eU4l0q/view?usp=sharing). 👀
+# Or [here](./Cheefulism-v0_0_2_1.pdf). 👀
 
 ---
 
