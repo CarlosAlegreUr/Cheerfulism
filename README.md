@@ -1,17 +1,23 @@
-# Cheerfulism (v.0.0.2) 😄 
+# Cheerfulism (v.0.0.3) 😄 
 
 ---
 
-# Read it [here](https://drive.google.com/file/d/1mTpTfPSEoSZnPcexqZyE0PLE--eU4l0q/view?usp=sharing). 👀
+# 🇬🇧 English version: [click here](https://drive.google.com/file/d/1DTLMFZd-v7zqcNm5r7xeTM75rPTAE58l/view?usp=sharing).
+# 🇪🇸 Spanish version: [click here](https://drive.google.com/file/d/12gzBoUua0aOYG09MZJtG2295PLHPMrpD/view?usp=sharing).
 
 ---
 
 ## ChatGPT's Book Blurb 📚✨
 
-**Cheerfulism v.0.0.2** is your invitation to a lifetime of happiness—crafted not by chance, but by intention. This unique philosophy empowers you to understand what truly brings joy, fulfillment, and meaning, and shows how to nurture it across every chapter of your life. It’s not about rejecting beliefs or following rigid systems—it’s about discovering your personal path to enduring happiness, one that evolves with you.
+What if happiness wasn’t just a feeling—but a system you could engineer?
 
-But *Cheerfulism* doesn’t stop at individual fulfillment. It offers a bold social critique, analyzing how all societies can thrive by embracing a more cheerful perspective. The author explores how, by focusing on long-term happiness, we can create a world where people, communities, and even nations can flourish in harmony. This philosophy reimagines power, technology, and human connection, sketching a blueprint for a brighter, more joyful future—one where the world reaches its peak potential, its true utopia.
+In Cheerfulism v.0.0.3, an unfiltered, mind-expanding philosophical manifesto, one curious thinker dives headfirst into life’s biggest questions: What is happiness? What is intelligence? How should we live, think, and evolve together? Blending logic, humor, and raw honesty, the author lays out a practical framework for building a deeply fulfilling life—one rooted in survival, self-awareness, exploration, and the joyful mastery of patterns.
 
-If you’re ready to create a life where happiness isn’t just a fleeting moment, but a lasting state of being, and if you want to understand how society could evolve toward its most prosperous and harmonious version, *Cheerfulism* offers the guidance and inspiration you need.
+This isn’t your typical self-help book. It’s a thought experiment. A call to rethink everything—from religion and beliefs to politics and social dynamics. Through the lens of engineering, human psychology, and technological change, Cheerfulism maps out a bold vision for how individuals—and entire societies—can level up toward long-term, adaptable happiness.
+
+Accessible yet ambitious, playful yet profound—Cheerfulism v.0.0.3 dares you to analyze your life like a system, embrace discomfort as a teacher, and pursue freedom with intelligence.
+
+Read it alone. Even better, read it with friends.
+Because joy, like ideas, spreads best when shared.
 
 ---
