@@ -1,23 +1,39 @@
-# Cheerfulism (v.0.0.3) 😄 
+# Cheerfulism (v.0.0.4) 🕶️🤏🌞 
+
+# 🇬🇧 English version (first draft): [click here](https://drive.google.com/file/d/112SdEZg3eT2cnmS-kzAVIhIHXQnsCRqv/view?usp=sharing)
 
 ---
-
-# 🇬🇧 English version: [click here](https://drive.google.com/file/d/1DTLMFZd-v7zqcNm5r7xeTM75rPTAE58l/view?usp=sharing).
-# 🇪🇸 Spanish version: [click here](https://drive.google.com/file/d/12gzBoUua0aOYG09MZJtG2295PLHPMrpD/view?usp=sharing).
-
 ---
 
-## ChatGPT's Book Blurb 📚✨
+### 📜 Previous versions 📜
+<details> <summary> Click here to see prev versions. </summary>
 
-What if happiness wasn’t just a feeling—but a system you could engineer?
+## Cheerfulism (v.0.0.3) 😄 
+### 🇬🇧 English version: [click here](./previousVersions/v0_0_3/Cheefulism-v0_0_3.pdf).
+### 🇪🇸 Spanish version: [click here](./previousVersions/v0_0_3/Alegrismo-v0_0_3.pdf).
 
-In Cheerfulism v.0.0.3, an unfiltered, mind-expanding philosophical manifesto, one curious thinker dives headfirst into life’s biggest questions: What is happiness? What is intelligence? How should we live, think, and evolve together? Blending logic, humor, and raw honesty, the author lays out a practical framework for building a deeply fulfilling life—one rooted in survival, self-awareness, exploration, and the joyful mastery of patterns.
+## Cheerfulism (v.0.0.2) 😄 
+### 🇬🇧 English version: [click here](./previousVersions/v0_0_2/Cheefulism-v0_0_2_1.pdf).
 
-This isn’t your typical self-help book. It’s a thought experiment. A call to rethink everything—from religion and beliefs to politics and social dynamics. Through the lens of engineering, human psychology, and technological change, Cheerfulism maps out a bold vision for how individuals—and entire societies—can level up toward long-term, adaptable happiness.
+## Cheerfulism (v.0.0.1) 😄 
+### 🇬🇧 English version: [click here](./previousVersions/v0_0_1/Cheefulism-v0_0_1.pdf).
 
-Accessible yet ambitious, playful yet profound—Cheerfulism v.0.0.3 dares you to analyze your life like a system, embrace discomfort as a teacher, and pursue freedom with intelligence.
+</details>
 
-Read it alone. Even better, read it with friends.
-Because joy, like ideas, spreads best when shared.
+---
+---
 
+## ChatGPT's Book Blurb 📚✨  
+### Cheerfulism: A Reflection of Existence on Itself 🕶️🤏🌞  
+
+*Cheerfulism* is a thought-provoking exploration of happiness, intelligence, and the future of human societies.  
+Blending philosophy, science, and practical reasoning, the book introduces *Cheerfulism*—a way of thinking that seeks to maximize individual and collective well-being.  
+
+Across four parts, it delves into the roots of happiness, the role of beliefs, and the power of analytical thinking, before tackling big questions:  
+- How can we design better societies?  
+- Can technology and human wisdom lead us to peace, fairness, and sustainable joy?  
+
+Written in an accessible yet profound style, *Cheerfulism* invites readers to rethink life’s meaning and imagine a brighter, more thoughtful future.
+
+---
 ---
