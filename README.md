@@ -1,8 +1,8 @@
 # Cheerfulism (v.0.0.4) 🕶️🤏🌞 
 
-# 🇬🇧 English version: [click here](https://drive.google.com/file/d/112SdEZg3eT2cnmS-kzAVIhIHXQnsCRqv/view?usp=sharing)
+# 🇬🇧 English version: [click here](https://drive.google.com/file/d/18b8xFdmTGOrP9noKSGJhF2Xl9Mck0Axu/view?usp=sharing)
 
-> ⚠️ Draft Note: Homemade manuscript—not yet professionally edited—but despite minor typos or formatting quirks, the content is readable and understandable.
+> ⚠️ Note: Homemade manuscript—not yet professionally edited—but despite minor typos or formatting quirks, the content is readable and understandable.
 
 ---
 ---
