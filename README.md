@@ -10,7 +10,7 @@
 ---
 
 ### 📜 Previous versions 📜
-<details> <summary> Click here to see prev versions. </summary>
+<details> <summary> Click here to see previous versions. </summary>
 
 ## Cheerfulism (v.0.0.3) 😄 
 ### 🇬🇧 English version: [click here](./previousVersions/v0_0_3/Cheefulism-v0_0_3.pdf).
@@ -23,6 +23,23 @@
 ### 🇬🇧 English version: [click here](./previousVersions/v0_0_1/Cheefulism-v0_0_1.pdf).
 
 </details>
+
+### 🌃​ Nightly-build 🌃​
+
+[Click here](./nightly-build/).
+
+In software development, a nightly-build is:
+
+```
+A version generated automatically each night from the latest code—often unstable.
+```
+
+In Cheerfulism, this works as a saved snapshot of the next version I’m writing. I upload updates from time to time, new ideas, questions, or notes without worrying about order or coherence.
+
+It serves two purposes:
+
+- To track the evolution of the book’s ideas and writing.  
+- To keep a backup of the current state of the book and my thoughts in case anything happens to the main files or to my life.
 
 ---
 ---
