@@ -24,9 +24,14 @@
 
 </details>
 
+---
+---
+
 ### 🌃​ Nightly-build 🌃​
 
-[Click here](./nightly-build/).
+[Click here](./nightly-build/) to see the nightly-build.
+
+<details> <summary> What is a nightly-build? 🤔​ </summary>
 
 In software development, a nightly-build is:
 
@@ -40,6 +45,8 @@ It serves two purposes:
 
 - To track the evolution of the book’s ideas and writing.  
 - To keep a backup of the current state of the book and my thoughts in case anything happens to the main files or to my life.
+
+</details>
 
 ---
 ---
