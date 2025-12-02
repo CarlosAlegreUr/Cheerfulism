@@ -2,7 +2,7 @@
 
 # 🇬🇧 English version: [click here](https://drive.google.com/file/d/18b8xFdmTGOrP9noKSGJhF2Xl9Mck0Axu/view?usp=sharing)
 
-> ⚠️ Note: Homemade manuscript—not yet professionally edited—but despite minor typos or formatting quirks, the content is readable and understandable.
+> ⚠️ Note: Homemade manuscript—not yet professionally edited—but despite minor typos or formatting quirks, the content is readable and understandable. Furthermore, v0.0.5 is on the make with significant improvements.
 
 ### Youtube Channel 🔴⏯️: [click here](https://www.youtube.com/@cheerfulism/videos)
 
